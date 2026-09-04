@@ -1,0 +1,3 @@
+auth_type = "oauth"
+application_credentials = "${HOME}/.config/gdrive/application_credentials.json"
+user_credentials = "${HOME}/.config/gdrive/user_credentials.json"
